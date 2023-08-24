@@ -80,9 +80,9 @@ const Header = (props) => {
               </button>
             )}
 
-            {/* <button className="btn btn-outline-light">
+            { <button className="btn btn-outline-light">
             <i className="fa fa-search" aria-hidden="true"></i>Create a Account
-          </button> */}
+          </button> }
           </div>
         </div>
       </GoogleOAuthProvider>
