@@ -52,7 +52,7 @@ const Header = (props) => {
                 ></button>
               </div>
               <div className="modal-body">
-                <GoogleLogin onSuccess={onSuccess} onError={onError} />;
+                <GoogleLogin onSuccess={onSuccess} onError={onError} />
               </div>
             </div>
           </div>
